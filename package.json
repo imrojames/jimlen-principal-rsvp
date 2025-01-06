@@ -1,0 +1,19 @@
+{
+    "name": "jimlen",
+    "version": "1.0.0",
+    "homepage": "https://imrojames.github.io/jimlen-principal-rsvp",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "lite-server",
+        "deploy": "gh-pages -d ."
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "gh-pages": "^6.2.0",
+        "lite-server": "^2.6.1"
+    }
+}
